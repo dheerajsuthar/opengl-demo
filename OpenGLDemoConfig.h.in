@@ -1,0 +1,3 @@
+#define OpenGLDemo_VERSION_MAJOR @OpenGLDemo_VERSION_MAJOR@
+#define OpenGLDemo_VERSION_MINOR @OpenGLDemo_VERSION_MINOR@
+#cmakedefine USE_HELPERS
